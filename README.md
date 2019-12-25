@@ -1,2 +1,2 @@
-# brn
+# Barnaul
 BeerPHP: Barnaul, Russia
